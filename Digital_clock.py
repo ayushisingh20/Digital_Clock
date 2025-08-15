@@ -1,4 +1,4 @@
-#
+# This python program creates a digital clock GUI using Tkinter that shows the current time and date , and updates every second.
 
 import tkinter as tk  # import tkinter liberary for GUI 
 from time import strftime
